@@ -1,0 +1,25 @@
+# Java / Maven
+backend/target/
+*.class
+.mvn/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+
+# Env & secrets
+.env
+.env.local
+*.local
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Logs
+*.log
+logs/
